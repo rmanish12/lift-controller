@@ -1,0 +1,30 @@
+.display-box {
+    border: 2px solid indianred;
+    min-height: 150px !important;
+    background-color: white;
+}
+
+.number-box {
+    border: 2px solid indianred;
+    margin-top: 15%;
+}
+
+.left-align-button {
+    margin-left: 5% !important;
+    width: 40%;
+    background-color: indianred !important;
+    margin-bottom: 2% !important;
+    height: 75px !important;
+}
+
+.right-align-button {
+    float: right;
+    margin-right: 5% !important;
+    width: 40%;
+    background-color: indianred !important;
+    height: 75px !important;
+}
+
+.mt-2 {
+    margin-top: 2% !important;
+}
